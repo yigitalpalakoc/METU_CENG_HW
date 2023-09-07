@@ -1,2 +1,2 @@
 # METU_CENG_HW
-HOmeworks given by the department.
+Homeworks given by the department.
